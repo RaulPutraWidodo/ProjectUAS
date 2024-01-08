@@ -1,3 +1,4 @@
+# Langkah-langkah membuat program sederhana kasir dengan python 
 Program yang Anda berikan adalah program kasir sederhana menggunakan Python dengan format dictionary. Berikut adalah penjelasan rinci mengenai setiap bagian dari program:
 ```python
 1. **Menu Makanan/Minuman:**
