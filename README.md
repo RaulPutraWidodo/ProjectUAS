@@ -4,7 +4,7 @@
 | --- | --- |
 | NIM    | 312310610 |
 | KELAS  | TI.23.A.6 |
-| DOSEN  | Agung Nugroho,S.Kom.,M.Kom |
+| DOSEN  | Agung Nugroho, S.Kom., M.Kom. |
 | LINK YOUTUBE | https://youtu.be/q1_LEHurTrU?si=wESiugAIIYywpF8k |
 
 # Kode Sederhana
