@@ -1,7 +1,10 @@
+# Project_UAS
 
-
-
-
+|NAMA   | Raul Putra Widodo |
+| --- | --- |
+| NIM    | 312310610 |
+| KELAS  | TI.23.A6 |
+| DOSEN  | Agung Nugroho,S.Kom.,M.Kom |
 
 
 # Kode Sederhana
