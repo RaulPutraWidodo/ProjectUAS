@@ -61,9 +61,8 @@ if __name__ == "__main__":
 ```
 
 
-# Langkah-langkah membuat program sederhana kasir dengan python 
+# Penjelasan
 Program yang Anda berikan adalah program kasir sederhana menggunakan Python dengan format dictionary. Berikut adalah penjelasan rinci mengenai setiap bagian dari program:
-```python
 1. **Menu Makanan/Minuman:**
    - Pada fungsi `tampilkan_menu()`, program menampilkan menu makanan/minuman beserta nomor dan harga menggunakan perulangan `for`.
 
@@ -81,6 +80,5 @@ Program yang Anda berikan adalah program kasir sederhana menggunakan Python deng
 
 4. **Eksekusi Program:**
    - Terakhir, blok `if __name__ == "__main__":` memastikan bahwa program hanya dijalankan jika script ini dieksekusi langsung (bukan diimpor sebagai modul oleh script lain).
-```
 
 Untuk menjalankan program ini, cukup salin kode ke dalam file Python dan jalankan. Program akan menampilkan menu, meminta pengguna untuk memilih, dan memberikan struk pembelian dengan total harga.# ProjectUAS
